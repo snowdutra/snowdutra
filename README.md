@@ -4,9 +4,12 @@
 - 🌱 Estudando SQL - Python
 - 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowdutra&show_icons=true)](https://github.com/snowdutra/github-readme-stats&show_icons=true)
+### My stats ⭐
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowdutra&hide_progress=true)
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+</div>
 
 - <div style="display: inline_block"><br>
   <img align="center" alt="Dutra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
