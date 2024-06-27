@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back - end
 - 🌱 Estudando SQL - Python
-- 😄 Pronouns: ele/dele
+
 
 ### My stats ⭐
 
