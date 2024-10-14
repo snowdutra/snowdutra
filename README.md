@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo Dutra 👋
 
-- 🔭 Hoje trabalho com back - end
+- 🔭 Hoje trabalho com Marketing e Análise de Dados
 - 🌱 Estudando SQL - Python
 
 
