@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo Dutra 👋
 
-- 🔭 Hoje trabalho com Marketing e Análise de Dados
+- 🔭 Hoje trabalho como Bussiness Analytics 
 - 🌱 Estudando Python - Java - SQL
 
 
